@@ -1,0 +1,4 @@
+[ { age: 30, name: 'Ben' },
+  { age: 35, name: 'Margo' },
+  { age: 42, name: 'Sal' },
+  { age: 51, name: 'Jenny' }, ]

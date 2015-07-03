@@ -1,0 +1,15 @@
+.data-canvas {
+    width: 420px;
+    margin: auto;
+}
+
+.node-label {
+    fill: blue;
+    font-weight: bold;
+}
+
+.node-circle {
+    fill: red;
+}
+
+
